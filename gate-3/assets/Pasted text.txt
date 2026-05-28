@@ -1,0 +1,423 @@
+
+
+
+
+[27/05, 7:39 pm] Sowmya Cse Senior SSN: *The Capture The Flag link is now live.*
+Welcome to the Seven Gates of Shells !!!!
+
+Will you conquer the challenges, meet GAIA, and claim the prize? 
+The story awaits, and we have hints ready if you need them.
+
+Link: https://gates-of-shell.vercel.app/
+
+Please Read the following Guidelines & Rules Carefully before you start:
+
+- The CTF runs from 8:00 PM on May 27, 2026, to 8:00 PM on May 31, 2026.
+- Please use your official SSN Email ID to register. Any players who attempt to use fake email IDs will be eliminated from the contest.
+- DO NOT SHARE THE FLAG IN PUBLIC GROUPS ... Discussion among your friend group is fine, but never post the solution publicly, doing so will ban your account.
+- Timing is relative. Your individual timer starts as soon as you clear Gate 0 and enter Gate 1.
+- You will face 7 challenges, progressing from Gate 1 to Gate 7.
+- We recommend starting when you have a dedicated 5-6 hour block of time to lock in.
+- Taking longer than 5-6 hours is entirely acceptable, especially for beginners. The primary focus is on learning. Your timer stops at 8:00 PM on May 31 or when you complete all 7 gates.
+- Leaderboard standings are determined by total points. In the event of a tie, your completion time will be used as a tiebreaker.
+- Hints are available for every question to prevent you from getting permanently stuck. Be aware that hints carry point penalties and have a time delay to encourage independent research.
+- Using the internet to research is highly encouraged and essential for many challenges.
+- AI tools are permitted. However, relying on them to solve the entire CTF will diminish the learning experience, which is the core purpose of this event.
+
+Support:
+If you encounter site issues or need assistance, please report them via WhatsApp DM to:    
+- R Uthaya Murthy: 9342534086
+- Varghese K James: 88913 09667
+[27/05, 7:43 pm] Sowmya Cse Senior SSN: this is a really great opportunity guys! its a fun game where you might actually end up learning
+
+ dont take it too seriously, give it a shot and try your best to learn and have as much fun as you can!! we'll keep showing you the leader board at regular intervals, take a look and see if you have a chance to win
+
+this closes on sunday at 8pm, so try it out before then! feel free to discuss any doubts you have in this group or text anyone mentioned heree. let's see how many of you can crack it. all the besttt!!
+
+
+What is it decode it what should I want do on ot
+
+This is a CTF — Capture The Flag 🏴‍☠️
+Basically a hacking / puzzle-solving game where each “gate” is a challenge. You solve it, find a hidden flag (usually something like flag{...}), submit it, and move to the next gate.
+
+The “Seven Gates of Shells” theme means the challenges are probably around:
+
+Linux / shell basics 🐚
+
+Web security 🌐
+
+Cryptography 🔐
+
+Reverse engineering ⚙️
+
+Hidden clues / steganography 👀
+
+Programming logic 💻
+
+OSINT (internet investigation) 🕵️
+
+What your senior means by “decode it”
+They’re not asking you to decode the WhatsApp message 😭
+They mean:
+
+“Understand what this event is and how to play.”
+
+What YOU should do
+1. Register with SSN email
+Use your official SSN mail only.
+
+Go to:
+
+Seven Gates of Shells
+
+2. Start with beginner mindset
+You are NOT expected to know hacking already.
+
+CTFs are literally designed to teach you by forcing you to explore stuff.
+
+Even top devs Google during CTFs.
+
+3. What happens inside
+You’ll see a challenge like:
+
+“Find the hidden string”
+
+“Decode this text”
+
+“Inspect this webpage”
+
+“Crack this cipher”
+
+“Find the secret in the image”
+
+Then you investigate and submit the answer.
+
+4. Typical things you’ll use
+Some very common beginner CTF tricks:
+
+Type	Example
+Base64 decoding	SGVsbG8=
+View page source	Right click → Inspect
+Hidden files	/robots.txt
+Linux commands	cat, grep, strings
+Cipher decoding	Caesar cipher
+Metadata extraction	EXIF tools
+Browser devtools	Network / Console
+Example
+Suppose they give:
+
+U1NOLUNURi1JUy1GVU4=
+You try Base64 decode.
+
+Result:
+
+SSN-CTF-IS-FUN
+Boom 💥
+That’s the thinking style.
+
+What you should install before starting
+Essential
+VS Code
+
+Google Chrome
+
+Helpful tools
+CyberChef → BEST beginner CTF tool
+
+Kali Linux VM (optional)
+
+Burp Suite Community Edition
+
+Biggest beginner tips 🚀
+Use Inspect Element
+A LOT of beginner CTFs hide stuff in HTML comments.
+
+Press:
+
+F12
+Check:
+
+Elements
+
+Network
+
+Console
+
+Sources
+
+Try common encodings
+If text looks weird:
+
+Base64
+
+Hex
+
+ROT13
+
+Binary
+
+Morse
+
+Use:
+
+CyberChef
+
+Read EVERYTHING carefully
+CTF creators LOVE hiding clues in:
+
+challenge titles
+
+filenames
+
+URLs
+
+image names
+
+punctuation
+
+capitalization
+
+Google is allowed
+This is important.
+
+CTF is less:
+
+“Do you know this?”
+
+and more:
+
+“Can you figure it out?”
+
+What NOT to do ❌
+Don’t spam random attacks
+
+Don’t DDoS anything
+
+Don’t brute force logins unless challenge hints say so
+
+Don’t leak flags publicly
+
+Don’t get obsessed with leaderboard pressure
+
+My recommendation for you specifically 👀
+Since you’re already into development and tech, this is PERFECT for leveling up:
+
+debugging skills
+
+web internals
+
+Linux confidence
+
+networking basics
+
+security mindset
+
+Even if you solve just 1–2 gates, you’ll learn a lot.
+
+Best strategy
+Before starting
+Keep ready:
+
+Chrome
+
+CyberChef
+
+Notes app
+
+Terminal
+
+During challenge
+When stuck:
+
+Read carefully again
+
+Inspect webpage
+
+Search online
+
+Ask friends
+
+Take hints if needed
+
+Important mindset
+The goal is NOT:
+
+“Win the CTF.”
+
+The real goal is:
+
+“Become dangerous at problem solving.” 😎
+
+That skill stays forever.
+
+If you want, I can also help you with:
+
+beginner CTF roadmap
+
+common challenge types
+
+how to use CyberChef
+
+how web CTFs work
+
+Linux commands cheat sheet
+
+walkthrough mindset (without spoiling challenges)
+
+You can even send screenshots/challenges here and I’ll guide you step-by-step 🔥
+
+
+image(400).png
+first page decode it 
+
+You already solved the “decode” part 😄
+The flag is literally shown inside the tutorial text.
+
+I zoomed into the screenshot — the code block says:
+
+1Found{b3110g414}
+That is the flag you must submit 🎯
+
+So:
+
+Copy:
+
+1Found{b3110g414}
+Paste it into Enter Flag
+
+Click Submit
+
+Then Gate 1 unlocks 🔓
+
+Small CTF lesson here 👀
+
+This tutorial gate is teaching you:
+
+flags have a specific format
+
+read carefully
+
+sometimes the answer is hidden in plain sight
+
+A lot of beginner CTFs work exactly like this 😎
+
+
+image(401).png
+for this shouldi just submit this one 
+
+Yep — just submit it exactly like that ✅
+
+iFound{b3110g414}
+Looks like the correct first character is lowercase i, not number 1.
+
+Then click SUBMIT 🔓
+
+
+image(402).png
+
+OHHH this one is teaching you web inspection / source code analysis 👀🔥
+
+The clue is:
+
+“Look behind the curtain. Inspect the foundation.”
+
+That basically screams:
+
+Open Developer Tools
+and inspect the webpage source.
+
+What to do now
+Step 1
+Press:
+
+F12
+OR
+
+Right Click → Inspect
+Step 2
+Check these tabs carefully:
+
+Elements
+
+Console
+
+Network
+
+Sources
+
+Especially Elements 👀
+
+Step 3
+Look for:
+
+hidden comments
+
+weird text
+
+hidden divs
+
+flag{...}
+
+encoded strings
+
+invisible content
+
+Example:
+
+<!-- flag{something_here} -->
+OR
+
+<div style="display:none">
+flag{hidden}
+</div>
+VERY important clue
+The challenge name is:
+
+“The Presentation Layer”
+
+That usually means:
+
+HTML
+
+CSS
+
+frontend
+
+rendered UI vs hidden UI
+
+So the flag is probably hidden in the webpage source itself.
+
+Try this first 🚀
+After pressing F12:
+
+Go to Elements
+
+Press:
+
+Ctrl + F
+Search:
+
+flag
+Also try:
+
+hidden
+or
+
+GAIA
+Another likely place
+The text “Gaia’s Domain” looks clickable 👀
+
+Click it.
+
+It may:
+
+open another page
+
+contain hidden source
+
+trigger a request
+
+Send me the next screenshot after opening Inspect Element 🔥
+
+DEVELOPER MODE
+
