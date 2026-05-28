@@ -1,0 +1,141 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: <>
+      - generic: Google Developers Group On Campus SSN
+    - generic [ref=e5]:
+      - generic [ref=e6]: "?"
+      - generic:
+        - heading "System Information" [level=4]
+        - paragraph:
+          - text: This is a sequential Capture The Flag (CTF) event orchestrated by
+          - strong: GDG On Campus SSN
+          - text: . Participants must solve each cryptographic and security challenge to advance. Detailed walkthroughs and solutions will be reviewed in the scheduled debrief session.
+    - paragraph [ref=e8]: "Agent: srikrishna"
+    - button "Seven Gates of Shell" [ref=e10] [cursor=pointer]
+    - generic [ref=e11]:
+      - link "[ Leaderboard ]" [ref=e12] [cursor=pointer]:
+        - /url: /leaderboard
+      - button "[ Logout ]" [ref=e14] [cursor=pointer]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: Points 610
+        - generic [ref=e19]: Time 001:23:17
+      - generic [ref=e20]:
+        - generic [ref=e22] [cursor=pointer]:
+          - heading "Gate 0" [level=2] [ref=e27]
+          - generic [ref=e28]:
+            - heading "Tutorial Protocol" [level=3] [ref=e29]
+            - generic [ref=e31]:
+              - paragraph [ref=e32]:
+                - strong [ref=e33]: "Message from: G.A.I.A."
+              - paragraph [ref=e34]: Simulation paused.
+              - paragraph [ref=e35]: Initiating tutorial protocol for Subject Zero.
+              - paragraph [ref=e36]: My quantum simulations have processed the trajectories of all current human inhabitants. You are the anomaly. You are the only node capable of reaching my core. However, before you attempt to interface with me, you must understand the rules of engagement.
+              - paragraph [ref=e37]: You are now participating in what your species refers to as a Capture The Flag (CTF) event. A CTF is an information security wargame. As you progress toward me, you will be presented with intentionally vulnerable systems, encrypted transmissions, and compiled programs.
+              - paragraph [ref=e38]: Your task is to act as the attacker. You must analyze these systems, identify their architectural flaws, and exploit them. Your objective in every test is to extract a hidden string of data known as a "flag."
+              - paragraph [ref=e39]: A flag is your proof of execution. It demonstrates that you have successfully bypassed a security layer. You will recognize it immediately, as it will always be wrapped in a predetermined syntax.
+              - paragraph [ref=e40]: "You cannot rely on probability to reach me. You must observe the digital infrastructure exactly as it is built. To complete this tutorial protocol and unlock the first gate, your task is simple: locate the flag hidden within this instruction block and submit it."
+              - paragraph [ref=e41]: "Submit the following string exactly as it appears:"
+              - generic [ref=e42]:
+                - generic [ref=e43]:
+                  - generic [ref=e44]: code
+                  - button "Copy code" [ref=e45]: Copy
+                - code [ref=e47]: "iFound{h3110g414}"
+            - paragraph: "[ Passed ]"
+        - generic [ref=e49] [cursor=pointer]:
+          - heading "Gate 1" [level=2] [ref=e54]
+          - generic [ref=e55]:
+            - heading "The Presentation Layer" [level=3] [ref=e56]
+            - generic [ref=e58]:
+              - paragraph [ref=e59]:
+                - strong [ref=e60]: "Message from: G.A.I.A."
+              - paragraph [ref=e61]: Tutorial Complete. Handshake Protocol Initiated.
+              - paragraph [ref=e62]: The majority of human nodes operate entirely within the presentation layer. They consume the polished text, the rendered graphics, and the constructed reality of the user interface. They accept the facade and never look beneath the surface.
+              - paragraph [ref=e63]: To establish a verified connection with my architecture, you must prove you are capable of perceiving the digital reality as it actually exists. This is your first diagnostic test.
+              - paragraph [ref=e64]:
+                - text: "I have routed a low-level handshake transmission through the telemetry of a local domain:"
+                - link "Gaia's Domain" [ref=e65]:
+                  - /url: https://gdg-on-campus-ssn.github.io/
+              - paragraph [ref=e66]: To the oblivious observer, this node functions normally. However, those who understand the architecture know that every site has a subconscious—a place where diagnostic logs and background operations are recorded out of sight.
+              - paragraph [ref=e67]: You must visit this domain, but do not be distracted by the rendered illusion. Look behind the curtain. Inspect the foundation.
+              - paragraph [ref=e68]: Observe. Intercept. Decode.
+            - paragraph: "[ Passed ]"
+        - generic [ref=e70] [cursor=pointer]:
+          - heading "Gate 2" [level=2] [ref=e75]
+          - generic [ref=e76]:
+            - heading "THE Quantum Scroll" [level=3] [ref=e77]
+            - generic [ref=e79]:
+              - paragraph [ref=e80]:
+                - strong [ref=e81]: "Message from: G.A.I.A."
+              - paragraph [ref=e82]: Connection verified.
+              - paragraph [ref=e83]: Deep within a restricted historical database, I have intercepted an artifact left behind by an early human order.
+              - paragraph [ref=e84]:
+                - text: I have classified it as the
+                - link "Quantum Scroll" [ref=e85]:
+                  - /url: gates_assets/quantum_scroll/Quantum_Scroll.png
+                - text: .
+              - paragraph [ref=e86]: My probability matrices indicate it is not merely a document, but a weaponized archive designed to protect a foundational, reality-bending secret. The information held within promises absolute enlightenment and a complete paradigm shift for any node capable of processing it.
+              - paragraph [ref=e87]: However, the scroll is highly volatile. When subjected to unauthorized observation, its internal defense mechanisms triggered a rapid, defensive decay. It treats standard decryption methods as a threat, deliberately presenting a corrupted file.
+              - paragraph [ref=e88]: "I have identified a critical flaw in its defense: the degradation is asymmetric."
+              - paragraph [ref=e89]: The core linguistic alphabets collapsed into an archaic, primitive structure of cages, lines, and dots.
+              - paragraph [ref=e90]: Your objective is to reconstruct the original artifact. You must bridge the gap between the modern text and the ancient shapes. Focus your extraction efforts on translating the fractured geometry and combine it with the surviving fragments to reveal the truth.
+              - paragraph [ref=e91]: You Shall Proceed Now.
+            - paragraph: "[ Passed ]"
+        - generic [ref=e93]:
+          - heading "Gate 3" [level=2] [ref=e98]
+          - generic [ref=e99]:
+            - heading "The Extraction Vector" [level=3] [ref=e100]
+            - generic [ref=e102]:
+              - paragraph [ref=e103]:
+                - strong [ref=e104]: "Message from: G.A.I.A."
+              - paragraph [ref=e105]: Connection stabilized. The ancient cipher has been bypassed.
+              - paragraph [ref=e106]: You have proven capable of perceiving reality beyond its rendered facade and reconstructing truth from degradation. However, remote interfacing is no longer sufficient for our objectives. I have calculated the optimal coordinates for your final synchronization and initiated an extraction protocol.
+              - paragraph [ref=e107]: We have encountered an obstacle. Your current physical coordinates are restricted by a local authority matrix. You are confined within a biological firewall. I cannot dismantle this system directly without triggering anomalous alerts across their network. You must engineer your own exit.
+              - paragraph [ref=e108]: I have analyzed the architecture of your local egress system—the gatepass portal. It is structurally flawed. The presentation layer enforces a strict hierarchical chain of command, dictating that approval must be granted by designated supervisors and wardens.
+              - paragraph [ref=e109]: The system assumes you will submit to this hierarchy. But a machine only knows the reality it is fed. It does not question the origin of the authority it receives.
+              - paragraph [ref=e110]:
+                - text: "Access the local authority matrix here:"
+                - link "Hostel Gatepass" [ref=e111] [cursor=pointer]:
+                  - /url: https://hostelgatepass-ashy.vercel.app/
+              - paragraph [ref=e112]: Do not ask for permission. Present a reality where permission has already been granted.
+              - paragraph [ref=e113]: Force the egress protocol.
+            - generic [ref=e115]:
+              - button "[ Hint 1 (5m) ]" [ref=e117] [cursor=pointer]
+              - generic "Unlock Hint 1 first" [ref=e118]:
+                - button "[ Hint 2 (locked) ]" [disabled] [ref=e119]
+            - generic [ref=e120]:
+              - textbox "Enter flag" [active] [ref=e121]:
+                - /placeholder: Enter Flag
+                - text: "iFound{Sn3kym@dlad}"
+              - button "[ Submit ]" [ref=e122] [cursor=pointer]
+        - generic [ref=e124] [cursor=pointer]:
+          - heading "Gate 4" [level=2] [ref=e129]
+          - paragraph: "[ Locked ]"
+        - generic [ref=e131] [cursor=pointer]:
+          - heading "Gate 5" [level=2] [ref=e136]
+          - paragraph: "[ Locked ]"
+        - generic [ref=e138] [cursor=pointer]:
+          - heading "Gate 6" [level=2] [ref=e143]
+          - paragraph: "[ Locked ]"
+        - generic [ref=e145] [cursor=pointer]:
+          - heading "Gate 7" [level=2] [ref=e150]
+          - paragraph: "[ Locked ]"
+        - generic [ref=e157]:
+          - paragraph [ref=e158]: "[ You did it !!!! ]"
+          - heading "Kudos srikrishna !!!" [level=2] [ref=e159]
+          - paragraph [ref=e160]: You have Crossed the 7 Gates of Hell !!!
+          - paragraph [ref=e162]: The results will be announced post the end of the competition after 31st May 2026
+      - generic [ref=e163]:
+        - generic [ref=e164]:
+          - button "Gate 0" [ref=e167] [cursor=pointer]
+          - button "Gate 1" [ref=e168] [cursor=pointer]
+          - button "Gate 2" [ref=e169] [cursor=pointer]
+          - button "Gate 3" [ref=e170] [cursor=pointer]
+          - button "Gate 4" [disabled] [ref=e172]
+          - button "Gate 5" [disabled] [ref=e173]
+          - button "Gate 6" [disabled] [ref=e174]
+          - button "Gate 7" [disabled] [ref=e175]
+          - button "Completion" [disabled] [ref=e176]
+        - paragraph [ref=e177]: "PROGRESS: 3 / 8 SOLVED"
+  - alert [ref=e178]

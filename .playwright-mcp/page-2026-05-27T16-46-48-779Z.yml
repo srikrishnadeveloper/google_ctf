@@ -1,0 +1,23 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: <>
+      - generic: Google Developers Group On Campus SSN
+    - generic [ref=e5]:
+      - generic [ref=e6]: "?"
+      - generic:
+        - heading "System Information" [level=4]
+        - paragraph:
+          - text: This is a sequential Capture The Flag (CTF) event orchestrated by
+          - strong: GDG On Campus SSN
+          - text: . Participants must solve each cryptographic and security challenge to advance. Detailed walkthroughs and solutions will be reviewed in the scheduled debrief session.
+    - generic [ref=e11]:
+      - tablist "Authentication mode" [ref=e12]:
+        - button "[ Login ]" [pressed] [ref=e13] [cursor=pointer]
+        - button "[ Register ]" [ref=e14] [cursor=pointer]
+      - textbox "Username" [ref=e15]
+      - generic [ref=e16]:
+        - textbox "Password" [ref=e17]
+        - button "Show Password" [ref=e18]: Show
+      - button "[ Login ]" [ref=e19] [cursor=pointer]
+  - alert [ref=e10]
