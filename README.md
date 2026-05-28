@@ -1,6 +1,5 @@
 # Seven Gates of Shells - Complete CTF Writeup
 
-![CTF Banner](assets/banner.png)
 
 > **A comprehensive walkthrough of the Seven Gates of Shells CTF challenge**  
 > *Completed by: Srikrishna Developer*  
