@@ -34,7 +34,7 @@ This repository contains complete documentation and methodology for solving the 
 
 ### Primary Tools
 - **Browser**: Chrome DevTools, Playwright
-- **IDE**: Windsurf/Cascade with AI assistance
+- **IDE**: Opencode,Windsurf/Cascade with AI assistance and Antigravity 
 - **Cryptography**: Python, CyberChef
 - **Steganography**: Steghide, Binwalk
 - **Reverse Engineering**: Ghidra, Strings, Hexdump
